@@ -1,6 +1,6 @@
 ## 本書に掲載した作例
 
-本書に掲載している作例の倍率やゲームシート、企画概要書へのリンクです。書籍では、これらのゲームを遊ぶ例や、考え方を掲載しています。
+[本書](https://techbookfest.org/product/2FY5JrstKxtB7xj9DJrXjc)に掲載している作例の倍率やゲームシート、企画構想書へのリンクです。書籍に、これらのゲームを遊ぶ例や、考え方を掲載しています。
 
 ### 【サイコロゲーム作例1】4x2バクチ
 
@@ -10,7 +10,7 @@
 
 [4x2バクチ ゲームシート](https://docs.google.com/spreadsheets/d/1J-8BaxM6R72p_8pbDuFKmz6afNpkczGaNkDVO4wQ96U/)
 
-Googleスプレッドシートです。ご自身のGoogleアカウントにコピーすると、シートに書き込んで、ゲームを遊べます
+Googleスプレッドシートです。ご自身のGoogleアカウントにコピーすると、シートに書き込んで、ゲームを遊べます。
 
 ### 【サイコロゲーム作例2】エスケープ4
 
@@ -20,7 +20,7 @@ Googleスプレッドシートです。ご自身のGoogleアカウントにコ�
 
 [エスケープ4 ゲームボード](https://docs.google.com/spreadsheets/d/18By8u05BYQKfGW1ao2sIp_MjaJX3c5QGNTZutj0FgGA/)
 
-Googleスプレッドシートです。ご自身のGoogleアカウントにコピーすると、シートに書き込んで、ゲームを遊べます
+Googleスプレッドシートです。ご自身のGoogleアカウントにコピーすると、シートに書き込んで、ゲームを遊べます。
 
 <a href="./images/escape4_board_a5.pdf" download="true">
 <img src="./images/escape4_board.jpg" style="max-height: 320px" alt="【サイコロゲーム作例2】エスケープ4 ゲームボードPDF">
@@ -28,7 +28,7 @@ Googleスプレッドシートです。ご自身のGoogleアカウントにコ�
 
 [エスケープ4 ゲームボードPDF](./images/escape4_board_a5.pdf)
 
-ゲームボード画像のPDFファイルです。A4の紙に、A5サイズで印刷されます
+ゲームボード画像のPDFファイルです。A4の紙に、A5サイズで印刷されます。
 
 ### ジャンプ＆ポン
 
@@ -39,7 +39,7 @@ Googleスプレッドシートです。ご自身のGoogleアカウントにコ�
 
 [ジャンプ＆ポン企画概要書](https://docs.google.com/document/d/1094vOcSmarVTz6oveydEAVjaPNaae-sdmGNZ643abgQ/)
 
-ジャンプ＆ポンの基本情報をまとめたGoogleドキュメントです
+ジャンプ＆ポンの基本情報をまとめたGoogleドキュメントです。
 
 
 ## おまけ作例
@@ -54,7 +54,7 @@ Googleスプレッドシートです。ご自身のGoogleアカウントにコ�
 
 [出目決戦ゲームシート](https://docs.google.com/spreadsheets/d/1Am10rdbJ0xRXDCdmnwnHG-JHRruNVgSk4LP-F0Nh5cU/)
 
-最初に作った作例ですが、ルールや遊び方がややこしく、本からは割愛しました。せっかく作ったのと、出目の大小で結果を決める例でもあるので、ここで公開します
+最初に作った作例ですが、ルールや遊び方がややこしく、本からは割愛しました。せっかく作ったのと、出目の大小で結果を決める例でもあるので、ここで公開します。
 
 ### VoxelorerBirdひよこ編・企画構想書
 
@@ -62,11 +62,11 @@ Googleスプレッドシートです。ご自身のGoogleアカウントにコ�
 
 [VoxelorerBirdひよこ編・企画構想書](https://docs.google.com/document/d/1n1Oxek9KgKN5j5TC0U0y48OSzzlLONp_oDUDpGcu20s/)
 
-以前に出版したパズルゲームのブロックの解説本に掲載したゲームの企画概要書です
+以前に出版したパズルゲームのブロックの解説本に掲載したゲームの企画概要書です。
 
 [GitHub. VBirdHiyoko. 公開リポジトリー](https://github.com/am1tanaka/VBirdHiyoko)
 
-パズルゲーム『VoxelorerBirdひよこ編』の公開リポジトリーです
+パズルゲーム『VoxelorerBirdひよこ編』の公開リポジトリーです。
 
 <a href="https://nextpublishing.jp/book/17752.html">
 <img src="./images/puzzle.jpg" style="max-height: 320px" alt="レベルアップゲームプログラミング・パズルゲーム開発で初心者から中級者へ！">
@@ -74,4 +74,4 @@ Googleスプレッドシートです。ご自身のGoogleアカウントにコ�
 
 [レベルアップゲームプログラミング・パズルゲーム開発で初心者から中級者へ！](https://nextpublishing.jp/book/17752.html)
 
-VoxelorerBirdひよこ編のブロックの開発についての解説本の商業版です
+VoxelorerBirdひよこ編のブロックの開発についての解説本の商業版です。

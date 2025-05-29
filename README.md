@@ -11,6 +11,10 @@
 
 現在、ありません。
 
+## 報告先
+
+書籍について、誤りや問題点がございましたら、[こちら](https://github.com/am1tanaka/HobbyGameDevDesignBook/issues)のIssuesからお知らせいただければ幸いです。
+
 ---
 
 (C) 2025 田中　雄
