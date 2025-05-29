@@ -1,4 +1,4 @@
-# 【趣味のゲーム開発：企画編】オリジナルのゲームを考えようサポートページ
+
 [技術書典18](https://techbookfest.org/event/tbf18/market)(2025/5/31-6/15)新刊!!
 
 <a href="https://techbookfest.org/product/2FY5JrstKxtB7xj9DJrXjc">
