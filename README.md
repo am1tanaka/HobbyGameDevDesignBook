@@ -15,6 +15,8 @@
 
 書籍について、誤りや問題点がございましたら、[こちら](https://github.com/am1tanaka/HobbyGameDevDesignBook/issues)のIssuesからお知らせいただければ幸いです。
 
+書式などは、お気になさらず。
+
 ## 本書に掲載した作例
 
 [本書](https://techbookfest.org/product/2FY5JrstKxtB7xj9DJrXjc)に掲載している作例の倍率やゲームシート、企画構想書へのリンクです。書籍に、これらのゲームを遊ぶ例や、考え方を掲載しています。
@@ -89,7 +91,43 @@ Googleスプレッドシートです。ご自身のGoogleアカウントにコ�
 
 [レベルアップゲームプログラミング・パズルゲーム開発で初心者から中級者へ！](https://nextpublishing.jp/book/17752.html)
 
-VoxelorerBirdひよこ編のブロックの開発についての解説本の商業版です。
+VoxelorerBirdひよこ編のブロックの開発についての解説本の商業版です。電子版は、同人版の方が安いですが、こちらの方があちこち加筆しています。
+
+
+<a href="https://techbookfest.org/product/nQdhDsspFhjK7zfWzmZMwK">
+<img src="./images/puzzle_gijutsusho.png" style="max-height: 320px" alt="パズルゲームのブロック6種類の企画から完成まで全工程を解説する本【Unity2022LTS】">
+</a>
+
+[パズルゲームのブロック6種類の企画から完成まで全工程を解説する本【Unity2022LTS】](https://techbookfest.org/product/nQdhDsspFhjK7zfWzmZMwK)
+
+VoxelorerBirdひよこ編のブロックの開発についての解説本の同人版です。紙版は、技術書典期間のみの扱いで、通常は、電子版のみです。
+
+
+## 使用素材
+
+モックアップや表紙などに利用したアセットは、次のとおりです。
+
+### エスケープ4のゲームボードの素材
+
+- 足場やゴールなどの主な素材
+  - [Kenney.nl. Castle Kit](https://kenney.nl/assets/castle-kit)
+- 背景の岩などの素材
+  - [Kenney.nl. Space Kit](https://kenney.nl/assets/space-kit)
+
+### 表紙などのフォント
+
+- [Fonts66コンプリートパック／109書体 Vector](https://pcshop.vector.co.jp/service/catalogue/fonts66/index.php)
+  - ※キャンペーン価格で購入
+
+
+### 表紙のサイコロと入れ物
+
+100円ショップのセリアで購入。
+
+- サイコロ
+  - （株）日本パール加工. TRPG DICE 7種入
+- 入れ物
+  - 山田化学株式会社. No.3287 ディスプレイドームM
 
 
 ---
